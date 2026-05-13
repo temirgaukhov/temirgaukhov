@@ -8,7 +8,7 @@
 
 ### 🔍 About me
 
-- 📊 Data Analyst at **IQanat Educational Foundation** — automating analytics for nationwide olympiads (60 000+ participants)
+- 📊 Data Analyst at **IQanat Educational Foundation** - automating analytics for nationwide olympiads (60 000+ participants)
 - 🛠️ 10 years in IT: from sysadmin at **BI Group** to building data pipelines and BI dashboards
 - 🎯 Currently transitioning into **AI / data engineering** and **vibecoding**
 - 🌱 Building remote-ready skills: English, public portfolio, LLM apps
@@ -39,14 +39,14 @@
 - 🤖 Building Telegram bots and internal dashboards
 - 📈 Interactive Power BI reports that surface hidden patterns
 - 🧪 Learning LLM APIs (Anthropic Claude, OpenAI) and prompt engineering
-- 🇬🇧 Improving English — heading toward B1
+- 🇬🇧 Improving English - heading toward B1
 
 ---
 
 ### 📫 Get in touch
 
 - 📧 Email: **d.temirgauyk@gmail.com**
-- 📱 Phone: **+7 (705) 919-5042**
+- 📱 Phone: **+7 (705) 919 50 42**
 - 📍 Astana, Kazakhstan
 
 ---
